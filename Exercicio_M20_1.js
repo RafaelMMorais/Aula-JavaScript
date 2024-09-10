@@ -12,5 +12,5 @@ function mdc(a, b){
 }
 console.log(mdc(14, 24))
 
-
+module.exports = { mdc }
 

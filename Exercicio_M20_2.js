@@ -11,3 +11,5 @@ function maiorNum(array) {
 
 const listaNum = [1, 0, 9, 2, 3, 8, 4, 7, 6, 5]
 console.log(maiorNum(listaNum))
+
+module.exports = { maiorNum, listaNum }

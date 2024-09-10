@@ -1,0 +1,15 @@
+{
+  "name": "aula-javascript",
+  "version": "1.0.0",
+  "main": "Exercicio_M20_1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
